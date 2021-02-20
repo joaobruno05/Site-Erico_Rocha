@@ -1,5 +1,5 @@
 # Site Érico Rocha
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/joaobruno05/clone-login-instagram/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/joaobruno05/Site-Erico_Rocha/blob/main/LICENSE)
 
 # Sobre o projeto
 
