@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Criei um site tendo como referência o do Érico Rocha, um dos precursores do Marketing Digital no Brasil. Tentei fazer do mesmo jeito, o mesmo layout e do mesmo jeito. Não ficou idêntico ao site real, mas serviu como um grande aprendizado. Tentarei aperfeiçoar ao longo do tempo.
+Criei um site tendo como referência o do Érico Rocha, um dos precursores do Marketing Digital no Brasil. Tentei fazer do mesmo jeito, com mesmo layout. Não ficou idêntico ao site real, mas serviu como um grande aprendizado. Tentarei aperfeiçoar ao longo do tempo.
 
 # Tecnologias utilizadas
 ## Front end
